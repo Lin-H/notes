@@ -1,0 +1,8 @@
+before_install:
+  - npm i
+language: node_js
+node_js:
+  - '12'
+cache: npm
+script:
+  - npm run build
