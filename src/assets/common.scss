@@ -1,0 +1,3 @@
+@mixin rem($n) {
+  font-size: ($n / 10)rem;
+}
