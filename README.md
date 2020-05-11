@@ -1,5 +1,7 @@
 # note
 
+[![Build Status](https://travis-ci.com/Lin-H/notes.svg?branch=master)](https://travis-ci.com/Lin-H/notes)
+
 ## Project setup
 ```
 npm install
